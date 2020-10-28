@@ -3,7 +3,7 @@
 
 ### **In this project you will find 4 different presentations**
 
-1: **Scatter plot**: Successful (blue) vs. Failed (red) 
+1: **Scatter plot**: Successful (blue) vs. Failed (red)  
 ![Scatter](scatter_daysvspledged.png)
 The x -axis shows the amount of days.  The y -axis shows the amount in millions of dollars.
 
