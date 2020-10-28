@@ -14,7 +14,7 @@ The x -axis shows the amount of days.  The y -axis shows the amount in millions 
 ![Hist](bar_overallcategorywisedistribution.png)
 
 4: **Pie chart**: Proportion of Pojects by Status  
-![PieII](pie_proportionofprojectsbystatus.png.jpg)
+![PieII](pie_proportionofprojectsbystatus.png)
 
 ### ***We made use of Pandas, Numpy, Matplotlib, Seaborn & InteractiveShell
 source: https://www.kaggle.com/kemical/kickstarter-projects
