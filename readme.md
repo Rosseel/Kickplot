@@ -5,7 +5,7 @@
 
 1: **Scatter plot**: Successful (blue) vs. Failed (red)  
 ![Scatter](scatter_daysvspledged.png)  
-The x-axis shows the amount of days.  The y -axis shows the amount in millions of dollars.  
+The x-axis shows the amount of days.The y-axis shows the amount in millions of dollars.  
 2: **Pie chart**: Categories & Percentages
 ![Pie](pie_categories.png)
 3: **Histogram**: Overal Category-wise Distribution  
